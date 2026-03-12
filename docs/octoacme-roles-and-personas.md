@@ -75,6 +75,92 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Scrum Master
+
+### Role Summary
+Scrum Masters facilitate agile events and remove blockers to help teams deliver value incrementally.
+
+### Responsibilities
+- Facilitate daily standups, sprint planning, retrospectives.
+- Identify and resolve team blockers.
+- Foster continuous improvement mindsets.
+- Ensure project transparency and accountability.
+
+### Goals
+- Increase team velocity and morale.
+- Minimize process friction and impediments.
+
+### Typical Communication
+- Agile ceremonies, coordination with PMs, Developers, QA.
+
+---
+## UX Designer
+
+### Role Summary
+UX Designers craft user journeys, wireframes, and prototypes to maximize usability.
+
+### Responsibilities
+- Design UI/UX prototypes.
+- Conduct user research and usability testing.
+- Collaborate with Product Managers and Developers.
+
+### Goals
+- Enhance product usability and accessibility.
+
+### Typical Communication
+- Design reviews, user testing reports, collaboration meetings.
+
+---
+## DevOps Engineer
+
+### Role Summary
+DevOps Engineers streamline CI/CD, infrastructure, and release processes.
+
+### Responsibilities
+- Manage automated pipelines.
+- Maintain deployment infrastructure.
+- Support release and rollback processes.
+
+### Goals
+- Increase deployment reliability and speed.
+
+### Typical Communication
+- Build status reports, release checklists, project board updates.
+
+---
+## Support Specialist
+
+### Role Summary
+Support Specialists handle incoming feedback and assist users post-release.
+
+### Responsibilities
+- Triage customer issues.
+- Communicate pain points to Product and Project Managers.
+
+### Goals
+- Ensure effective issue resolution.
+
+### Typical Communication
+- Issue tracking, stakeholder updates.
+
+---
+## QA Lead
+
+### Role Summary
+QA Leads design and coordinate testing strategies for project quality.
+
+### Responsibilities
+- Define/manage test plans.
+- Oversee manual and automated testing.
+
+### Goals
+- Ensure high quality releases.
+
+### Typical Communication
+- Testing dashboards, bug triage meetings.
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
